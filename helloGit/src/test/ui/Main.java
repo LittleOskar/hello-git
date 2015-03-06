@@ -7,6 +7,8 @@ public class Main {
 		System.out.println("Test No #2");
 		System.out.println("Dies sollte auch im Master-branch stehen!!");
 		System.out.println("UPDATE");
+		System.out.println();
+		System.out.println("Update von Main");
 	}
 
 }
